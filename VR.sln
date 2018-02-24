@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR", "VR.csproj", "{262920D3-35E0-439A-13D6-FC4051F4B40D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR.Plugins", "VR.Plugins.csproj", "{CF4E8F1E-AB7A-7C71-0DB3-A8E5FB235117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR.Editor.Plugins", "VR.Editor.Plugins.csproj", "{E20D6B6D-5975-6C6C-1856-E4E48C05DA01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR.Editor", "VR.Editor.csproj", "{539F63DE-81FC-DF6D-F8EB-FA8EE430F265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{262920D3-35E0-439A-13D6-FC4051F4B40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{262920D3-35E0-439A-13D6-FC4051F4B40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{262920D3-35E0-439A-13D6-FC4051F4B40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{262920D3-35E0-439A-13D6-FC4051F4B40D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF4E8F1E-AB7A-7C71-0DB3-A8E5FB235117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4E8F1E-AB7A-7C71-0DB3-A8E5FB235117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4E8F1E-AB7A-7C71-0DB3-A8E5FB235117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4E8F1E-AB7A-7C71-0DB3-A8E5FB235117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E20D6B6D-5975-6C6C-1856-E4E48C05DA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20D6B6D-5975-6C6C-1856-E4E48C05DA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20D6B6D-5975-6C6C-1856-E4E48C05DA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20D6B6D-5975-6C6C-1856-E4E48C05DA01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{539F63DE-81FC-DF6D-F8EB-FA8EE430F265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{539F63DE-81FC-DF6D-F8EB-FA8EE430F265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{539F63DE-81FC-DF6D-F8EB-FA8EE430F265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{539F63DE-81FC-DF6D-F8EB-FA8EE430F265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
